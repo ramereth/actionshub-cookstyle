@@ -1,8 +1,7 @@
 FROM chef/chefworkstation:latest
 
-
 LABEL "com.github.actions.name"="Cookstyle"
-LABEL "com.github.actions.description"="Runs the Cookstyle on your cookbook"
+LABEL "com.github.actions.description"="Runs Cookstyle on your cookbook"
 LABEL "com.github.actions.icon"="filter"
 LABEL "com.github.actions.color"="red"
 
