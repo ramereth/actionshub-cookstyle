@@ -1,0 +1,9 @@
+name: 'Cookstyle Action'
+author: 'Lance Albertson'
+description: 'Run cookstyle on your cookbooks with ease'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'tool'
+  color: 'red'
